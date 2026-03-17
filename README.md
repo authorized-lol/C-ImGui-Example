@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://authorized.lol/favicon.ico" width="64" height="64" alt="authorized.lol logo" />
+<img src="https://files.catbox.moe/zsyt8f.png" width="64" height="64" alt="authorized.lol logo" />
 
 # authorized.lol — C++ Loader Example
 
